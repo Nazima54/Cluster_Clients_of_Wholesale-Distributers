@@ -1,8 +1,5 @@
 # Cluster_Clients_of_Wholesale-Distributers
-K-means clustering of a wholesale distributor data set.
-/////////////////////////////////
-// K MEANS PROJECT EXERCISE ////
-///////////////////////////////
+K-means clustering of a wholesale distributor data set
 
 -The task is to try to cluster clients of a Wholesale Distributor
 - based off of the sales of some product categories
