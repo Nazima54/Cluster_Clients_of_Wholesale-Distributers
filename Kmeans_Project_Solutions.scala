@@ -5,9 +5,6 @@
 // Your task will be to try to cluster clients of a Wholesale Distributor
 // based off of the sales of some product categories
 
-// Source of the Data
-//http://archive.ics.uci.edu/ml/datasets/Wholesale+customers
-
 // Here is the info on the data:
 // 1)	FRESH: annual spending (m.u.) on fresh products (Continuous);
 // 2)	MILK: annual spending (m.u.) on milk products (Continuous);
